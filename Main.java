@@ -7,7 +7,7 @@ public class Main {
 		Scanner tem1 = new Scanner(System.in);
 		Scanner tem2 = new Scanner(System.in);
 		Scanner tem3 = new Scanner(System.in);
-    Scanner tem4 = new Scanner(System.in);
+    		Scanner tem4 = new Scanner(System.in);
 
 		int decision=0;
     while (decision<2){
