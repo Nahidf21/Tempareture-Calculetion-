@@ -23,13 +23,13 @@ public class Main {
       for (double i= in_tem1; i<= in_tem2; i=i+in_tem3 ) {
 			  double f;
 			  f=((9.0/5.0)*i)+32;
-			  System.out.println(" "+ i+ "		=		"+f);
+			  System.out.println(" "+ i+ "	   =	"+f);
 		}
       System.out.println("If you want to continue the program then Type: y or not type n : ");
 			char disision_1 = tem4.nextLine().charAt(0);
 			if (disision_1=='n') {
 				decision=2;
-				System.out.println("..................Work Done.................");
+				System.out.println(".........................Work Done.......................");
       }
     }
   }
