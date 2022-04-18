@@ -29,7 +29,7 @@ public class Main {
 			char disision_1 = tem4.nextLine().charAt(0);
 			if (disision_1=='n') {
 				decision=2;
-				System.out.println(".........................Work Done.......................");
+				System.out.println(".......................Work Done......................");
       }
     }
   }
